@@ -1,4 +1,4 @@
-# Complementary Reporo for Udemy course about Co-Pilot
+# Complementary Repo for Udemy course about Co-Pilot
 ## Setup
 This is an intro course to Co-Pilot usage on Udemy [here](link).
 
